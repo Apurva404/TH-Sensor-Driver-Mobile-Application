@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">THsensorDriver</string>
+
+    <string name="app_label">TH Sensor Driver</string>
+    <string name="temp_label">Temperature:</string>
+    <string name="humidity_label">Humidity:</string>
+    <string name="activity_label">Activity:</string>
+    <string name="counter_label">No of Sensor readings:</string>
+
+    <string name="btn_generate_label">Generate</string>
+    <string name="btn_cancel_label">Cancel</string>
+    <string name="btn_closeApp_label">Close App</string>
+
+
+
+</resources>
