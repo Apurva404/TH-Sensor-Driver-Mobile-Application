@@ -7,8 +7,8 @@ Few important features of the application are:
 2. User can see the recently generated datasets in the respective text views along with the corresponding thread id of the async task generating the data,
 3. Provides the user an interface to stop the data generation without closing the whole app.
 4. Proper error handling by the app includes handling
-    o	Bad/no input from user
-    o Multiple clicks on Generate button 
-    o	Click on cancel button while no data generation is in progress
+   4.1 Bad/no input from user
+   4.2 Multiple clicks on Generate button 
+   4.3 Click on cancel button while no data generation is in progress
 5. Provides the user a number pad instead of a generic keyboard to enter the count of dataset to be generated.
 
