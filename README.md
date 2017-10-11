@@ -8,8 +8,8 @@ Few important features of the application are:
 3. Provides the user an interface to stop the data generation without closing the whole app.
 4. Proper error handling by the app includes handling:
   
-   4.1 Bad/no input from user
-   4.2 Multiple clicks on Generate button 
-   4.3 Click on cancel button while no data generation is in progress
+   4.1  Bad/no input from user
+   4.2  Multiple clicks on Generate button 
+   4.3  Click on cancel button while no data generation is in progress
 5. Provides the user a number pad instead of a generic keyboard to enter the count of dataset to be generated.
 
